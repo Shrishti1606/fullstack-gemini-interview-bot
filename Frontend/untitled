@@ -1,0 +1,16 @@
+4 layers of architecture in react
+
+UI --> for the navigation
+--> components
+--> pages
+
+HOOK --> for managing state and api layers/calls
+--> manages hooks
+
+STATE -->related to data, data storage
+--> auth.context.jsx
+--> ai.context.jsx
+
+API --> for communication with backend on behalf of frontend/react
+--> services
+    --> auth.api.jsx
