@@ -47,7 +47,7 @@ const Register = () => {
                         type="password" id="password" name="password" placeholder='Enter your password' />
                     </div>
 
-                    <button className='button primary-button'>Register</button>
+                    <button className='button button-primary'>Register</button>
 
                 </form>
 

@@ -2,7 +2,6 @@ const userModel = require('../models/user.model');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const tokenBlacklistModel = require("../models/blacklist.model");
-const tokenBlackListModel = require('../models/blacklist.model');
 
 /**
  * @route POST /api/auth/register
